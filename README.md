@@ -8,8 +8,6 @@ A simple stopwatch implemented using HTML, CSS, and JavaScript.
 - [Features](#features)
 - [Demo](#demo)
 - [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 
@@ -27,4 +25,7 @@ https://github.com/abhisek7154/Stopwatch/assets/126792721/0cfb2fe6-228e-4db0-b9e
 
 ![sample picture](https://github.com/abhisek7154/Stopwatch/assets/126792721/d4f4bf21-a009-4398-bcca-90b7d478a223)
 
-Include a screenshot or gif demonstrating the project in action.
+## usage
+
+Feel free to adjust the humor and tone to suit your preferences and project theme. The goal is to inject a bit of fun into the user experience!
+
